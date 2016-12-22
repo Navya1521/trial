@@ -1,3 +1,4 @@
 # test file is ignored
 *.txt
 !sample2.txt
+!qwerty.txt
